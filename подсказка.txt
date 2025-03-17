@@ -1,0 +1,4 @@
+папка results нужна была, чтобы проверить output.txt
+
+исполнял данной командой для выгрузки конкретно в папку results:
+docker run --rm -v C:\Users\A884597\Desktop\script\results:/app find-755-script
